@@ -1,0 +1,5 @@
+﻿  String.c
+C:\Users\Dioneat\source\repos\Prog2022UNN\Prog2022UNN\String.c(9,2): warning C4013: gets: нет определения; предполагается "extern" с возвратом типа "int"
+String.obj : error LNK2005: main уже определен в array.obj
+array.obj : error LNK2019: ссылка на неразрешенный внешний символ prinf в функции main.
+C:\Users\Dioneat\source\repos\Prog2022UNN\x64\Debug\Prog2022UNN.exe : fatal error LNK1120: неразрешенных внешних элементов: 1
